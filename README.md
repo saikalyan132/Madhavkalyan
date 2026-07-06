@@ -1,4 +1,4 @@
-# Madhavkalyan!!
+# Madhavkalyan!
 
 # 💫 About Me:
 🔭 I'm currently working on<br>• Full-Stack Web Development projects using React, TypeScript, Node.js, Express, and MongoDB.<br>• Improving my Data Structures & Algorithms skills by solving LeetCode problems daily.<br><br>👯 I'm looking to collaborate on<br>• Open-source projects.<br>• Full-Stack Web Applications.<br>• AI/ML and Developer Tools.<br><br>🤝 I'm looking for help with<br>• System Design.<br>• Cloud Computing (AWS).<br>• Advanced Backend Development and DevOps.<br><br>🌱 I'm currently learning<br>• Advanced DSA<br>• React + TypeScript<br>• Node.js & Express<br>• MongoDB<br><br>💬 Ask me about<br>• C++<br>• Data Structures & Algorithms<br>• React<br>• Node.js<br>• Express<br>• MongoDB<br>• TypeScript<br>• Git & GitHub<br><br>⚡ Fun fact<br>I enjoy turning real-world ideas into software projects and believe that consistent practice is the key to becoming a great software engineer.
